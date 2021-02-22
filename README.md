@@ -12,11 +12,11 @@
  
  apt install git
 
- git clone https://github.com/680UL/ddos_huckwr.git
+ git clone https://github.com/680UL/ddos_hucker.git
 
- cd ddos_huckwr
+ cd ddos_hucker
 
- python2 ddos_huckwr.py
+ python2 ddos_hucker.py
 
 ```
 
