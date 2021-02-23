@@ -6,6 +6,8 @@
 
  apt update && apt upgrade
 
+ apt install figlet
+
  apt install python
  
  apt install python2
